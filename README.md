@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Coding addict</h1>
-<h3 align="center">A passionate learning software developer</h3>
+<h3 align="center">A passionate software developer</h3>
 
 - 🔭 I’m currently working on [A Resource Manager](https://github.com/CodingAddict1530/ResourceManager)
 
