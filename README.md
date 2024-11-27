@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Coding addict</h1>
 <h3 align="center">A passionate software developer</h3>
 
-- 🔭 I’m currently working on [A Resource Manager](https://github.com/CodingAddict1530/ResourceManager)
-
 - ⚔️ My biggest project so far is a [A Java IDE](https://github.com/CodingAddict1530/java_ide)
 
 - 👯 I’m looking to collaborate on **Java and Python projects**
