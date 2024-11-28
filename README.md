@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Coding addict</h1>
 <h3 align="center">A passionate software developer</h3>
 
+- 🚀 Find my agent for calculating deep sizes of objects and their hierarchies in memory [here](https://github.com/CodingAddict1530/idk-agent)
+
 - ⚔️ My biggest project so far is a [A Java IDE](https://github.com/CodingAddict1530/java_ide)
 
 - 👯 I’m looking to collaborate on **Java and Python projects**
